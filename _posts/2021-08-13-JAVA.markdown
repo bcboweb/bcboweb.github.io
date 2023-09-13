@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Java"
+date:   2021-08-13 -
+categories: languages
+---
+One of my most well versed languages, I use it for 

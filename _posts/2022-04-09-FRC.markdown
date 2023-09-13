@@ -1,0 +1,19 @@
+---
+layout: post
+title: "FRC"
+date:   2022-04-09 -
+categories: projects clubs
+---
+FRC is a robotics based highschool competition.  Where we have a team that builds a robot and programs it.  I was on the programming team for the robot.<br>
+
+Late in my sophmore year my friend got me into robotics, and a week or so later I went to their state competition to see what it was like.  From then on I was hooked.
+
+![My team, 8114, Getting a triple traversal in competiton](/imgs/traverseal.jpg)
+
+That first competition I saw so many things that have captured me and gotten me to stick with robotics since then.
+
+I have been programming for that team for over a year now, we use Java for our code.  Last years code was the one I've had the most contribution to. [8114 Github](https://github.com/FRC-8114/2022-2023_shared)
+
+In being part of that team I have done some personal projects that contribute to our success, like integrating a new control scheme through python use a launchpad.  I have plans to fully fledge out this system, and publicize it for all of FRC to use, because as it stands it is relitively hard to get Launchpad up and running with FRC compatability. [Launchpad Code](https://github.com/FRC-8114/launchpad)
+
+In the 2023-2024 Season I will be programming captain, leading the programmers and teaching the new comers.  We have a plan to create a new system for our team, so that the following years can have templates, so that when they get up to bat they aren't left in the dust like I was in the 2022-2023 season.
