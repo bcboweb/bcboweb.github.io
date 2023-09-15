@@ -4,4 +4,9 @@ title: "Java"
 date:   2021-08-13 -
 categories: languages
 ---
-One of my most well versed languages, I use it for 
+Java is a well-known and highly used programming language.  Across many spaces, with many variety of uses.
+
+I have been doing Java since I started my sophmore year of highschool.  I have been using it since then consistantly for [robotics](_posts\2022-04-09-FRC.markdown), and used it in my AP Comp Sci course over my junior year.  [Robotics Github Repo for my year's contribution.](https://github.com/FRC-8114/2022-2023_shared)
+
+For the AP Computer Science A test, it is considered a college credit, and demonstrates proficiency in Java.  It is scored on a range from 1-5, and I scored a 5.
+![My team, 8114, Getting a triple traversal in competiton](/imgs/apcompsci.png)

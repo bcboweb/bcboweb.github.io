@@ -4,7 +4,7 @@ title: "FRC"
 date:   2022-04-09 -
 categories: projects clubs
 ---
-FRC is a robotics based highschool competition.  Where we have a team that builds a robot and programs it.  I was on the programming team for the robot.<br>
+FRC is a robotics based highschool competition.  Where we have a team that builds a robot and programs it to do what is required by that year's game.<br>
 
 Late in my sophmore year my friend got me into robotics, and a week or so later I went to their state competition to see what it was like.  From then on I was hooked.
 
