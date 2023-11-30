@@ -6,5 +6,5 @@ categories: language
 ---
 Lua is a widely used language for script integration across many platforms ranging from games to networking, as it is super versitile as it can be used alone in an object-orientated enviroment, or as an extension for script automation.
 
-I've been doing lua for a long time now, mainly in Roblox which is a game platform that uses Lua to creates scripts and games.
+I've been using lua for a long time now, mainly in Roblox which is a game platform that uses Lua to creates scripts and games.
 While I mainly just use Lua for personal little things, like automating something in a game that has lua integration, it is my most used language.

@@ -6,4 +6,4 @@ categories: language
 ---
 Python is another high level object-oreiented programming language that is extremely versitile, with integration in almost any type of system.
 
-I personally have started using python recently as some side projects.  I currently have made a [launchpad program](https://github.com/FRC-8114/launchpad) that lets me integrate an external system for my robot in [FRC](_posts\2022-04-09-FRC.markdown).  I plan to expand on that in the near future possibly making it a gui and publisizing it for wide spread use so that more people can use launchpads for better control systems.
+I personally have started using python recently as some side projects.  I currently have made a [launchpad program](https://github.com/FRC-8114/launchpad) that lets me integrate an external system for my robot in [FRC]({% link _posts/2022-04-09-FRC.markdown %}).  I plan to expand on that in the near future possibly making it a gui and publisizing it for wide spread use so that more people can use launchpads for better control systems.
